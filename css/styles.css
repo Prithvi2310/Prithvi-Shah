@@ -148,6 +148,7 @@ hr {
 .profile {
   margin: 70px auto;
   width: 30%;
+  line-height: 2;
 }
 
 .skills {
