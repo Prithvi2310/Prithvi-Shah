@@ -165,3 +165,12 @@ hr {
    border-radius: 8px;
    text-decoration: none;
 } */
+
+.btn {
+  background-color: #66BFBF;
+  color: #fff;
+}
+
+.btn:hover {
+  color: #fff;
+}
