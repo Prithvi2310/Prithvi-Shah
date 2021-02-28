@@ -126,10 +126,12 @@ hr {
 .btn {
   background-color: #fff;
   color: #66BFBF;
+  border-color: #66BFBF;
 }
 
 .btn:hover {
   color: #fff;
+  background-color: #66BFBF;
 }
 
 .spacing {
