@@ -174,3 +174,7 @@ hr {
 .btn:hover {
   color: #fff;
 }
+
+.spacing {
+  margin: 1.5rem 0;
+}
