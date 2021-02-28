@@ -132,6 +132,7 @@ hr {
 .btn:hover {
   color: #fff;
   background-color: #66BFBF;
+  border: none;
 }
 
 .spacing {
