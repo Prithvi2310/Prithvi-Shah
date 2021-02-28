@@ -132,7 +132,7 @@ hr {
 .btn:hover {
   color: #fff;
   background-color: #66BFBF;
-  border: none;
+  border-color: #66BFBF;
 }
 
 .spacing {
